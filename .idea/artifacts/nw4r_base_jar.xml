@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="nw4r.base:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/nw4r_base_jar</output-path>
+    <root id="archive" name="nw4r.base.jar">
+      <element id="module-output" name="nw4r.base" />
+    </root>
+  </artifact>
+</component>
